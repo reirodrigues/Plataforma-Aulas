@@ -57,4 +57,4 @@ executar npm run dev
 
 ---
 
-Feito com ♥ by reirodrigues :wave:
+<p align="center">Feito com ♥ by reirodrigues :wave:</p>
