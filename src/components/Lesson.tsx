@@ -8,7 +8,7 @@ interface LessonProps {
   title: string;
   slug: string;
   availableAt: Date;
-  type: 'live' | 'class';
+  type: "live" | "class";
 }
 
 export function Lesson(props: LessonProps) {
